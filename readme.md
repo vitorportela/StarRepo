@@ -1,5 +1,5 @@
 # Star Repo
 
-![./git.png](GIT)
+![GitHub Logo](./git.png)
 
-Este repositorio é apenas um teste!
+Este repositorio Ã© apenas um teste!
